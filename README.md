@@ -30,4 +30,4 @@ The following *additional* features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/and102/95WbMLqr.gif  />
+<img src='https://submissions.us-east-1.linodeobjects.com/and102/b2febVGV.gif  />
